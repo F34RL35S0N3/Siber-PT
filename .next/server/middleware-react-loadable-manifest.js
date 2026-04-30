@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> @/components/CyberGrid\":{\"id\":\"app\\\\page.tsx -> @/components/CyberGrid\",\"files\":[\"static/chunks/_app-pages-browser_components_CyberGrid_tsx.js\"]}}"
